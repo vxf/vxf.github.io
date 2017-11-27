@@ -24,7 +24,7 @@ Most of all it was fun to work with this talentful team of different skillsets
 in design, 3D modeling and animation, and programming.
 [imagens]
 
-| [![Imagina]({{ "/public/imagina/thumbs/imagina.jpg" }})](/public/imagina/imagina.jpg )  | [![Imagina]({{ "/public/imagina/thumbs/imagina3.jpg" | absolute_url }})](/public/imagina/imagina3.jpg ) | [![Imagina]({{ "/public/imagina/thumbs/imagina4.jpg" | absolute_url }})](/public/imagina/imagina4.jpg ) |
+| [![Imagina]({{ "/public/imagina/thumbs/imagina.jpg" }})](/public/imagina/imagina.jpg )  | [![Imagina]({{ "/public/imagina/thumbs/imagina3.jpg" }})](/public/imagina/imagina3.jpg ) | [![Imagina]({{ "/public/imagina/thumbs/imagina4.jpg" }})](/public/imagina/imagina4.jpg ) |
 
 Developer - Freelancer
 ======================
