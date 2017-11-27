@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Interests (computers)
-order: 5
+order: 4
 ---
 
 Computer Graphics Algorithms
@@ -36,10 +36,15 @@ Some of the interesting boards I own:
 - PCD8544 Nokia LCD, because I love pixels
 - A couple of Arduinos, ESP modules, and hardware I scrape around
 
-I try to keep some of these projects in here [vxf/arduino](https://github.com/vxf/arduino),
+I try to keep some of these projects at [github vxf/arduino](https://github.com/vxf/arduino),
 although this is not my best code, I also like to not use the Arduino libraries
 and stick to raw AVR C whenever possible, so I can get a better feel of low
 level programming.
 
 {% include youtubePlayer.html id="bHBUkVx5KWw" %}
 {% include youtubePlayer.html id="azwVGk8I0_8" %}
+
+Linux and Free Software
+=======================
+
+
