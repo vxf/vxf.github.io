@@ -44,7 +44,5 @@ level programming.
 {% include youtubePlayer.html id="bHBUkVx5KWw" %}
 {% include youtubePlayer.html id="azwVGk8I0_8" %}
 
-Linux and Free Software
-=======================
 
 

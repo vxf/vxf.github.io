@@ -30,7 +30,10 @@ Drawing
 Occasionally I try to develop my drawing technique a bit further, this
 helps me connect with my creative side while having some introspective
 time but most important of all having the joy of developing a skill.
-[gallery]
 
-Learning Lnaguages
+[![My Drawings]({{ "/public/other/thumbs/cartofi.jpg" }})](https://photos.app.goo.gl/ODyGy7Bq5jYrBg2i1 )
+
+
+Learning languages
 ==================
+Like programming languages I've been studying other languages like Romanian, German, Farsi, Japanese.
