@@ -4,8 +4,46 @@ title: Home
 order: 1
 ---
 
+
 You can download my resume here:
 [![Resume]({{ "/public/icons8-resume-50.png" }})](/public/CV-Europass-20171128-Flores-PT.pdf)
+
+My name is Vasco Flores and this is my portfolio site, you can find me at:
+{% if site.github_username %}
+  <li>
+    <a href="https://github.com/{{ site.github_username }}">
+      <i class="fa fa-github"></i> GitHub
+    </a>
+  </li>
+{% endif %}
+{% if site.linkedin_username %}
+  <li>
+    <a href="https://linkedin.com/in/{{ site.linkedin_username }}">
+      <i class="fa fa-linkedin"></i> LinkedIn
+    </a>
+  </li>
+{% endif %}
+{% if site.google_plus_username %}
+  <li>
+    <a href="https://plus.google.com/{{ site.google_plus_username }}">
+      <i class="fa fa-google-plus"></i> Google+
+    </a>
+  </li>
+{% endif %}
+{% if site.facebook_username %}
+  <li>
+    <a href="https://www.facebook.com/{{ site.facebook_username }}">
+      <i class="fa fa-facebook"></i> Facebook
+    </a>
+  </li>
+{% endif %} 
+{% if site.twitter_username %}
+  <li>
+    <a href="https://twitter.com/{{ site.twitter_username }}">
+      <i class="fa fa-twitter"></i> Twitter
+    </a>
+  </li>
+{% endif %}
 
 Since young I always had a profound interest in sciences and arts.
 I started to do my first programming by researching all I could on the nearby
