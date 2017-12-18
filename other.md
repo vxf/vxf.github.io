@@ -4,15 +4,20 @@ title: Other Interests
 order: 6
 ---
 
+
 Movies & Series
 ===============
 Of course I like to watch movies and series, and I try to watch most of my 
 friends' pickings. Even so I like to feel these with my artistic sensibility, I
 apreciate good photography or good character development, or even both.
-Among my favorite directors there is Stanley Kubrik, Andrei Tarkovsky, 
-David Fincher, Wes Anderson, from whose I love almost everything.
+Among my favorite directors there is 
+[Stanley Kubrik](https://en.wikipedia.org/wiki/Stanley_Kubrick),
+[Andrei Tarkovsky](https://en.wikipedia.org/wiki/Andrei_Tarkovsky), 
+[David Fincher](https://en.wikipedia.org/wiki/David_Fincher),
+[Wes Anderson](https://en.wikipedia.org/wiki/Wes_Anderson), from whose I love almost everything.
 
 | [![The Shinning (1980)]({{ "/public/other/thumbs/shinning.jpg" }})](http://www.imdb.com/title/tt0081505/ ) |[![Zerkalo (1975)]({{ "/public/other/thumbs/zerkalo.jpg" }})](http://www.imdb.com/title/tt0072443/ ) |
+
 
 Science Fiction
 ===============
@@ -24,6 +29,7 @@ Some of my favorites are Arthur C. Clarke, Philip K. Dick and Isaac Asimov.
 Too bad it's been hard to find some time to read lately, such is the modern life.
 
 [![My Books]({{ "/public/other/thumbs/books.jpg" }})](/public/other/books.jpg )
+
 
 Drawing
 =======

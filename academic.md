@@ -17,10 +17,12 @@ of Beja. This course is strong on the following components:
 
 ESTiG - IPBeja - Operational Research
 =====================================
-Project developed in coordination with Inovation Department of the company
-SISCOG on the area of Artificial Inteligence and Optimization, headed by the
+Project developed in coordination with Inovation Department of
+[SISCOG](http://www.siscog.eu/), the leading company in Portugal on the field of
+[Artificial Inteligence](https://en.wikipedia.org/wiki/Artificial_intelligence)
+and [Optimization](https://en.wikipedia.org/wiki/Operations_research), headed by the
 PhD Maria Teresa Godinho teacher in IPBeja. Colaboration of PhD Marta Pascoal teacher of the Department of Mathematics of Faculdade de Ciências e Tecnologia da Universidade de Coimbra.
 
-Implementation of the K-Shortest Paths algorithm to integrate the railroad
-planner of the company. A challenging project requiring strong algorithm and
+Implementation of the [Yen's K-Shortest Paths algorithm](https://en.wikipedia.org/wiki/Yen%27s_algorithm)
+to integrate the railroad planner of the company. A challenging project requiring strong algorithm and
 coding skills. This was developed in C++.
