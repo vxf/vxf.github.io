@@ -6,7 +6,9 @@ order: 1
 
 
 You can download my resume here:
-[![Resume]({{ "/public/icons8-resume-50.png" }})](/public/CV-Europass-20171128-Flores-PT.pdf)
+[![Resume]({{ "/public/icons8-resume-50_pt.png" }})](/public/CV-Europass-20171218-Flores-PT.pdf)
+
+[![Resume]({{ "/public/icons8-resume-50_en.png" }})](/public/CV-Europass-20171218-Flores-EN.pdf)
 
 My name is Vasco Flores and this is my portfolio site, you can find me at:
 {% if site.github_username %}
