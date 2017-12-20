@@ -5,10 +5,17 @@ order: 1
 ---
 
 
-You can download my resume here:
-[![Resume]({{ "/public/icons8-resume-50_pt.png" }})](/public/CV-Europass-20171218-Flores-PT.pdf)
+"Science is what we understand well enough to explain to a computer. Art is everything else we do." - [Donald Knuth](https://en.wikipedia.org/wiki/Donald_Knuth)
 
-[![Resume]({{ "/public/icons8-resume-50_en.png" }})](/public/CV-Europass-20171218-Flores-EN.pdf)
+
+Europass CV
+-----------
+You can download my Europass CV here:
+
+Portuguese: [![Europass CV Portuguese]({{"/public/icons8-resume-50_pt.png" }})](/public/CV-Europass-20171218-Flores-PT.pdf)
+
+English: [![Europass CV English]({{ "/public/icons8-resume-50_en.png" }})](/public/CV-Europass-20171218-Flores-EN.pdf)
+
 
 My name is Vasco Flores and this is my portfolio site, you can find me at:
 {% if site.github_username %}
@@ -47,22 +54,11 @@ My name is Vasco Flores and this is my portfolio site, you can find me at:
   </li>
 {% endif %}
 
-Since young I always had a profound interest in sciences and arts.
-I started to do my first programming by researching all I could on the nearby
-library about digital systems, computers and operating systems.
-I wrote my first programs on a ZX Spectrum and 386 MS-DOS computers that I was
-alowed into. My first programming languages were BASIC and x86 assembler.
+I'm a passionate coder with a curious mind always looking for a new challenge.
+Currently finishing a BSc in Computer Science seeking a career in computer
+engineering fields.
 
-During my secondary education I wanted to build a huge relection telescope with
-science funding, my teachers thought it would be impossible so they convinced me
-to apply the money in science projects for school. It was great to see all the
-class involved in scientific divulgation events.
-
-Later I followed my studies in Arts to later apply in Architecture. I turned to
-Computer Science instead but I still like the architecture subject.
-
-I have a curious mind and I'm always learning new things, this way I managed to
-learn a lot of programming languages during my life:
+I managed to learn a lot of programming languages along the way:
 - Assemblers z80, 68k, x86, ARM
 - C
 - C++
@@ -77,5 +73,7 @@ learn a lot of programming languages during my life:
 - ADA
 - Java
 - Bash
+- (...) you name it
 
-I'm mostly proeficient computer graphics algorithms.
+I'm mostly proeficient in computer graphics algorithms in which I always had a big
+interest, also due to my interest in arts.
